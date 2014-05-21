@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SEPart_SheetMetal_Automation", "SEPart_SheetMetal_Automation\SEPart_SheetMetal_Automation.vbproj", "{146A8E3E-32D6-4A76-BA7E-EE1DE85F8172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146A8E3E-32D6-4A76-BA7E-EE1DE85F8172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146A8E3E-32D6-4A76-BA7E-EE1DE85F8172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146A8E3E-32D6-4A76-BA7E-EE1DE85F8172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146A8E3E-32D6-4A76-BA7E-EE1DE85F8172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

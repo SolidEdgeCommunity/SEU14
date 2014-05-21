@@ -1,0 +1,1 @@
+OpenSaveWithOptions.exe -i="C:\_Work\VB\VB Programs\Greg'sGenericOpenSave\OpenSaveDrivenfromFile\bin\Release\TestTextFile.txt" -pdf=FALSE -checkAssembly=TRUE -fit=FALSE -recompute=FALSE -updateDraft=FALSE -resetStatus=FALSE

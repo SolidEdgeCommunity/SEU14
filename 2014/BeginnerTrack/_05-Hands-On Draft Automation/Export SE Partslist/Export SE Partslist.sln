@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Export SE Partslist", "Export SE Partslist\Export SE Partslist.vbproj", "{E859BFFD-E86A-4C68-9C8A-983B3F235BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E859BFFD-E86A-4C68-9C8A-983B3F235BDA}.Debug|x86.ActiveCfg = Debug|x86
+		{E859BFFD-E86A-4C68-9C8A-983B3F235BDA}.Debug|x86.Build.0 = Debug|x86
+		{E859BFFD-E86A-4C68-9C8A-983B3F235BDA}.Release|x86.ActiveCfg = Release|x86
+		{E859BFFD-E86A-4C68-9C8A-983B3F235BDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+"C:\Program Files\Solid Edge ST5\SDK\tools\GenEdgeInteropAssemblies" "C:\Program Files\Solid Edge ST5\Program" "C:\_Work\Events\Dev Day SE University 2012\Automating SE basics with .NET\Sample\Sample\Interops" Sample
